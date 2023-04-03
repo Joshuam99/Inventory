@@ -1,2 +1,2 @@
 # Inventory
-Crud in java
+Crud in java not finished
